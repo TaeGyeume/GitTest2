@@ -12,5 +12,7 @@
 <P>  The time on the server is ${serverTime}. </P>
 
 <h2>회원가입</h2>
+
+<p>회원</p>
 </body>
 </html>
